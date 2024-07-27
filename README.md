@@ -48,7 +48,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Whats-bot/zb1.git && cd zb1
+git clone https://github.com/Whats-bot/zb1-master.git && cd zb1-master
 ```
 
 ```bash
