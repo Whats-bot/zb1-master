@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Whats-bot/zb1",
+  "homepage": "https://github.com/Whats-bot/zb1-master",
   "author": {
     "name": "ZloiAdmiN"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Whats-bot/zb1.git"
+    "url": "git+https://github.com/Whats-bot/zb1-master.git"
   },
   "bugs": {
-    "url": "https://github.com/Whats-bot/zb1/issues"
+    "url": "https://github.com/Whats-bot/zb1-master/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
