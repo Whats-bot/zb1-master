@@ -63,13 +63,7 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
 
   ${tradutor.texto1[12]}
 
-  ▢ _${usedPrefix}serbot --code_
-  ▢ _${usedPrefix}serbot_
-  ▢ _${usedPrefix}deletebot_
-  ▢ _${usedPrefix}token_
-  ▢ _${usedPrefix}stop_
-  ▢ _${usedPrefix}bots_
-  ▢
+  
   ▢ _${usedPrefix}включить restrict_
   ▢ _${usedPrefix}выключить restrict_
   ▢ _${usedPrefix}включить autoread_
@@ -207,7 +201,6 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ▢ _${usedPrefix}togifaud *<video>*_
   ▢ _${usedPrefix}toimg *<sticker>*_
   ▢ _${usedPrefix}tomp3 *<video>*_
-  ▢ _${usedPrefix}tomp3 *<nota de voz>*_
   ▢ _${usedPrefix}toptt *<video / audio>*_
   ▢ _${usedPrefix}tovideo *<sticker>*_
   ▢ _${usedPrefix}tourl *<video / img / audio>*_
@@ -252,14 +245,6 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ▢ _${usedPrefix}randomprofile_
 
 
-
-  ${tradutor.texto1[24]}
-
-  ▢ _${usedPrefix}start_
-  ▢ _${usedPrefix}next_
-  ▢ _${usedPrefix}leave_
-
-
   ${tradutor.texto1[25]}
  
   ▢ _${usedPrefix}inspect *<wagc_url>*_
@@ -268,15 +253,11 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ▢ _${usedPrefix}gptvoz *<txt>*_
   ▢ _${usedPrefix}dall-e *<txt>*_
   ▢ _${usedPrefix}spamwa *num|txt|cant>*_
-  ▢ _${usedPrefix}tamaño *<cant> <img / video>*_
   ▢ _${usedPrefix}readviewonce *<img / video>*_
-  ▢ _${usedPrefix}clima *<país> <ciudad>*_
   ▢ _${usedPrefix}encuesta *<txt1|txt2>*_
   ▢ _${usedPrefix}afk *<motivo>*_
   ▢ _${usedPrefix}ocr *<responde a img>*_
   ▢ _${usedPrefix}hd *<responde a img>*_
-  ▢ _${usedPrefix}acortar *<url>*_
-  ▢ _${usedPrefix}calc *<operacion>*_
   ▢ _${usedPrefix}del *<msj>*_
   ▢ _${usedPrefix}whatmusic *<audio>*_
   ▢ _${usedPrefix}readqr *<img>*_
@@ -284,13 +265,7 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ▢ _${usedPrefix}readmore *<txt1|txt2>*_
   ▢ _${usedPrefix}styletext *<txt>*_
   ▢ _${usedPrefix}traducir *<txt>*_
-  ▢ _${usedPrefix}nowa *num>*_
-  ▢ _${usedPrefix}covid *<pais>*_
-  ▢ _${usedPrefix}horario_
-  ▢ _${usedPrefix}dropmail_
-  ▢ _${usedPrefix}igstalk *<usr>*_
-  ▢ _${usedPrefix}tiktokstalk *<usr>*_
-  ▢ _${usedPrefix}img *<txt>*_
+   ▢ _${usedPrefix}img *<txt>*_
 
 
   ${tradutor.texto1[26]}
@@ -333,16 +308,10 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ▢ _${usedPrefix}attp *<txt>*_
   ▢ _${usedPrefix}attp2 *<txt>*_
   ▢ _${usedPrefix}attp3 *<txt>*_
-  ▢ _${usedPrefix}ttp *<txt>*_
-  ▢ _${usedPrefix}ttp2 *<txt>*_
-  ▢ _${usedPrefix}ttp3 *<txt>*_
-  ▢ _${usedPrefix}ttp4 *<txt>*_
-  ▢ _${usedPrefix}ttp5 *<txt>*_
   ▢ _${usedPrefix}pat *<@tag>*_
   ▢ _${usedPrefix}slap *<@tag>*_
   ▢ _${usedPrefix}kiss *<@tag>*_
   ▢ _${usedPrefix}dado_
-  ▢ _${usedPrefix}wm *<packname> <autor>*_
   ▢ _${usedPrefix}stickermarker *<efecto> <img>*_
   ▢ _${usedPrefix}stickerfilter *<efecto> <img>*_
 
