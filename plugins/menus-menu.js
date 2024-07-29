@@ -170,9 +170,8 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ▢ _${usedPrefix}снести2 *<@tag>*_
   ▢ _${usedPrefix}снести номера *<txt>*_
   ▢ _${usedPrefix}группу *<открыть/закрыть>*_
-  ▢ _${usedPrefix}grouptime  ${tradutor.texto1[30]}
-  ▢ _${usedPrefix}promote *<@tag>*_
-  ▢ _${usedPrefix}demote *<@tag>*_
+  ▢ _${usedPrefix}датьадмина *<@tag>*_
+  ▢ _${usedPrefix}снятьадмина *<@tag>*_
   ▢ _${usedPrefix}infogroup_
   ▢ _${usedPrefix}resetlink_
   ▢ _${usedPrefix}link_
