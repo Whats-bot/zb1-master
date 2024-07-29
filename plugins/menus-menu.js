@@ -165,12 +165,11 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
 
   ${tradutor.texto1[17]}
 
-  ▢ _${usedPrefix}add *num>*_
-  ▢ _${usedPrefix}kick *<@tag>*_
-  ▢ _${usedPrefix}kick2 *<@tag>*_
-  ▢ _${usedPrefix}listanum *<txt>*_
-  ▢ _${usedPrefix}kicknum *<txt>*_
-  ▢ _${usedPrefix}grupo *<abrir/cerrar>*_
+  ▢ _${usedPrefix}добавить *номер>*_
+  ▢ _${usedPrefix}снести *<@tag>*_
+  ▢ _${usedPrefix}снести2 *<@tag>*_
+  ▢ _${usedPrefix}снести номера *<txt>*_
+  ▢ _${usedPrefix}группу *<открыть/закрыть>*_
   ▢ _${usedPrefix}grouptime  ${tradutor.texto1[30]}
   ▢ _${usedPrefix}promote *<@tag>*_
   ▢ _${usedPrefix}demote *<@tag>*_
@@ -192,7 +191,7 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ▢ _${usedPrefix}fantasmas_
   ▢ _${usedPrefix}destraba_
   ▢ _${usedPrefix}setpp *<img>*_
-  ▢ _admins *<txt>*_ ${tradutor.texto1[31]}
+  ▢ _админы *<txt>*_ ${tradutor.texto1[31]}
 
 
   ${tradutor.texto1[18]}
