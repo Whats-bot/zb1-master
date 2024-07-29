@@ -6,8 +6,8 @@ const handler = async (m, {conn, args, usedPrefix, command}) => {
   const tradutor = _translate.plugins.gc_config
 
   const isClose = { // Switch Case Like :v
-    'open': 'not_announcement',
-    'close': 'announcement',
+    'открыть': 'not_announcement',
+    'закрыть': 'announcement',
     'abierto': 'not_announcement',
     'cerrado': 'announcement',
     'abrir': 'not_announcement',
@@ -18,8 +18,8 @@ const handler = async (m, {conn, args, usedPrefix, command}) => {
 ${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-*┠┉↯ ${usedPrefix + command} abrir*
-*┠┉↯ ${usedPrefix + command} cerrar*
+*┠┉↯ ${usedPrefix + command} открыть*
+*┠┉↯ ${usedPrefix + command} закрыть*
 `.trim();
   }
   await conn.groupSettingUpdate(m.chat, isClose);
@@ -27,7 +27,7 @@ ${tradutor.texto1[1]}
 };
 handler.help = ['group open / close', 'grupo abrir / cerrar'];
 handler.tags = ['group'];
-handler.command = /^(group|grupo)$/i;
+handler.command = /^(group|группу)$/i;
 handler.admin = true;
 handler.botAdmin = true;
 export default handler;
