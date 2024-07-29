@@ -55,7 +55,7 @@ ${tradutor.texto7[2]}
 --------------------------------
 
 ${tradutor.texto8[0]} БОТ АДМИН
-${tradutor.texto8[1]} ${usedPrefix + command} restrict
+${tradutor.texto8[1]} ${usedPrefix + command} ботадмин
 ${tradutor.texto8[2]}
 ${tradutor.texto8[3]}
 --------------------------------
